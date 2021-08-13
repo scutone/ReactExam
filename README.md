@@ -12,9 +12,9 @@ ReactJs skill test
 * Ability to read value from customerStore by name.
 * Ability to use store value render Antd input.
 * Ability to update store value to customerStore by name when user input value.
-* Update action should call in blur event but not onChange event.
+* Update action should be triggerd at onBlur event but not at onChange event.
 ------------
-### 5.  Create a page which use StoreInput component to render all properties in customerStore. Allow user entry all properties and update stroe.
+### 5.  Create a page which use storeInput component to render all properties in customerStore. Allow user entry all properties and update stroe.
 ###
 ------------
 
