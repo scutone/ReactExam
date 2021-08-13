@@ -1,7 +1,7 @@
 ReactJs skill test
 ============
 
-### 1. Create new branch from mater. ###
+### 1. Fork a new branch from the master branch. ###
 ------------
 ### 2. There is a customerStore in In src/store folder. ###
 ------------
