@@ -9,12 +9,12 @@ ReactJs skill test
 ------------
 ### 4. storeInput component should have the following features ###
 ------------
-* Ability to read value from customerStore by name.
+* Ability to read a value from customerStore by name.
 * Ability to use store value render Antd input.
 * Ability to update store value to customerStore by name when user input value.
-* Update action should be triggerd at onBlur event but not at onChange event.
+* Update action should be triggered at the onBlur event but not at the onChange event.
 ------------
-### 5.  Create a page which use storeInput component to render all properties in customerStore. Allow user entry all properties and update stroe.
+### 5.  Create a page that uses the storeInput component to render all properties in customerStore. Allow user enter all properties and update store.
 ###
 ------------
 
